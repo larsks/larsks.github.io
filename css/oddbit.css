@@ -1,0 +1,17 @@
+#header {
+	padding: 1ex;
+	border-top: thin solid black;
+	border-bottom: thin solid black;
+}
+
+.menu {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.menu li {
+	display: inline;
+	padding-left: 1ex;
+	padding-right: 1ex;
+}
