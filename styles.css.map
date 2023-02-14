@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/runner/work/larsks.github.com/larsks.github.com",
+	"sourceRoot": "/home/runner/work/larsks.github.io/larsks.github.io",
 	"sources": [
 		"css/base.scss",
 		"../../../../../tmp/hugo_cache/modules/filecache/modules/pkg/mod/github.com/panr/hugo-theme-terminal/v3@v3.1.2/assets/css/variables.scss",
