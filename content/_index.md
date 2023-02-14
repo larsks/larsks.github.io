@@ -31,11 +31,15 @@ I am generally `larsks@*`, in particular:
 - [`https://hachyderm.io/@larsks`](https://hachyderm.io/@larsks) on [Mastodon][]
 - [`larsks`](https://github.com/larsks) on [GitHub][]
 - [`larsks`](https://twitter.com/larsks) on [Twitter][] (for however long that lasts)
+- [`larsks`](https://keybase.io/larsks) on [Keybase]
 
 [libera irc]: https://libera.chat
 [mastodon]: https://joinmastodon.org
 [github]: https://github.com
 [twitter]: https://twitter.com
+[keybase]: https://keybase.io
+
+My GPG key is published [here](/larsks_at_oddbit_dot_com.asc) (or [on the openpgp keyserver](https://keys.openpgp.org/search?q=lars%40oddbit.com) if you prefer), if you need a way to send me something securely.
 
 # Contributions
 
