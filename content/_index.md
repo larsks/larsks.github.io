@@ -39,7 +39,7 @@ I am generally `larsks@*`, in particular:
 
 # Contributions
 
-I have been involved with the open source community for decades, and I try to fix problems when I see them. You'll find my name in the commit log for projects including [Git][], [Docker][], [Ansible][], [OpenStack][], [Kustomize][], [Micropython][], and hundreds of other projects.
+I have been involved with the open source community for decades, and I try to fix problems when I see them. You'll find my name in the commit log for projects including [Git][], [Docker][], [Ansible][], [OpenStack][], [Kustomize][], [Micropython][], and [hundreds of other projects][prs].
 
 [git]: https://git-scm.com
 [docker]: https://www.docker.com
@@ -47,6 +47,7 @@ I have been involved with the open source community for decades, and I try to fi
 [openstack]: https://www.openstack.org
 [kustomize]: https://kustomize.io
 [micropython]: https://micropython.org
+[prs]: https://github.com/search?q=is%3Apr+author%3Alarsks+-org%3Aocp-on-nerc+-org%3Acci-moc+-org%3Anerc-project+-user%3Alarsks
 
 I helped launch [Ara](https://ara.recordsansible.org/) and [tripleo-quickstart](https://docs.openstack.org/tripleo-quickstart/latest/), although I haven't been active in either project for a long time.
 
