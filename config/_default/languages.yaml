@@ -4,3 +4,27 @@ en:
       logoText: "the odd bit"
       logoHomeLink: "/"
       subtitle: "one of these things is not like the others"
+
+  menu:
+    main:
+      - identifier: "home"
+        name: "/"
+        url: "/"
+        weight: 1
+      - identifier: "about"
+        name: "/blog"
+        url: "https://blog.oddbit.com"
+        weight: 2
+      - identifier: "github"
+        name: "→Github"
+        url: "https://github.com/larsks"
+        weight: 10
+      - identifier: "twitter"
+        name: "→Twitter"
+        url: "https://twitter.com/larsks"
+        weight: 10
+      - identifier: "mastodon"
+        name: "→Mastodon"
+        url: "https://hachyderm.io/@larsks"
+        weight: 10
+
