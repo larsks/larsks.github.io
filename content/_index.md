@@ -27,19 +27,15 @@ I have [a blog][] to which I occasionally post technical articles.
 
 I am generally `larsks@*`, in particular:
 
-- `larsks` on [Libera IRC][]
-- [`https://hachyderm.io/@larsks`](https://hachyderm.io/@larsks) on [Mastodon][]
-- [`larsks`](https://github.com/larsks) on [GitHub][]
-- [`larsks`](https://twitter.com/larsks) on [Twitter][] (for however long that lasts)
-- [`larsks`](https://keybase.io/larsks) on [Keybase]
+<ul>
+<li><code>larsks</code> on <a href="https://libera.chat">Libera IRC</a></li>
+<li><a rel="me" href="https://hachyderm.io/@larsks"><code>https://hachyderm.io/@larsks</code></a> on <a href="https://joinmastodon.org">Mastodon</a></li>
+<li><a rel="me" href="https://github.com/larsks"><code>larsks</code></a> on <a href="https://github.com">GitHub</a></li>
+<li><a rel="me" href="https://keybase.io/larsks"><code>larsks</code></a> on <a href="https://keybase.io">Keybase</a></li>
+<li><a rel="me" href="https://twitter.com/larsks"><code>larsks</code></a> on <a href="https://twitter.com">Twitter</a> (although I'm not really active here anymore)</li>
+</ul>
 
-[libera irc]: https://libera.chat
-[mastodon]: https://joinmastodon.org
-[github]: https://github.com
-[twitter]: https://twitter.com
-[keybase]: https://keybase.io
-
-My GPG key is published [here](/larsks_at_oddbit_dot_com.asc) (or [on the openpgp keyserver](https://keys.openpgp.org/search?q=lars%40oddbit.com) if you prefer), if you need a way to send me something securely.
+<p>My GPG key is published <a rel="pgpkey" href="/larsks_at_oddbit_dot_com.asc">here</a> (or <a href="https://keys.openpgp.org/search?q=lars%40oddbit.com">on the openpgp keyserver</a> if you prefer), if you need a way to send me something securely.</p>
 
 # Contributions
 

@@ -2,3 +2,8 @@ baseURL: https://oddbit.com
 languageCode: 'en-us'
 title: The Odd Bit
   #theme: terminal
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
